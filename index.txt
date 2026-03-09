@@ -1,3 +1,5 @@
 
 Hello this is my first Git project 
 I update the same command from Remote Repo to Local Repo 
+again same file I updated and push from local to remote
+Thank you 
